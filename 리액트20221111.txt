@@ -1,0 +1,15 @@
+리액트
+- 스타일
+- Hooks
+- context
+- props
+- 부트스트랩
+
+통신
+- Jsonplaceholder
+- postman
+- REST
+- Method
+- fetch
+- Axios
+- CORS

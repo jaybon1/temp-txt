@@ -1,0 +1,7 @@
+파일 업로드
+CORS
+데이터베이스 연결
+
+pip3 install python-multipart
+pip3 install databases
+pip3 install aiosqlite

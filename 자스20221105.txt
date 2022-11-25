@@ -1,0 +1,5 @@
+다음주까지
+1. jaylog_html 보기
+2. react 다시 작성해보기
+3. html bootstrap으로 
+아주아주아주 간단한 페이지 만들어보기

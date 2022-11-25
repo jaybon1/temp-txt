@@ -1,0 +1,13 @@
+유튜브 얄팍한 코딩사전
+
+서버란 무엇인가요?
+REST API가 뭔가요?
+AWS? 클라우드 컴퓨팅이 무엇인가요?
+도커가 뭐고 왜 쓰는건가요?
+기본 개발용어 알아보기
+XML, JSON, YAML이 뭔가요?
+Angular, React, Vue가 뭔가요? (+ Single Page Application)
+
+가장 쉬운 리눅스 강좌
+가장 쉽게 배우는 도커
+
